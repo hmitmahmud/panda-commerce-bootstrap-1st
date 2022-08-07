@@ -1,0 +1,30 @@
+.body {
+
+}
+.panda-bg-info{
+background-color:#fceae8;
+} 
+.categories img{
+width: 100px;
+}
+.panda-btn-buy-now{
+background-image: linear-gradient(to bottom, #ff589b 0%,#ff4b92 100%);
+color: white;
+border-radius: 8px;
+padding: 9px 25px;
+border: none;
+}
+.panda-btn-buy-now{
+    background-color: none;
+    transition: transform .1s;
+    margin: 0 auto;
+  }
+  
+  .panda-btn-buy-now:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+  }
+  .Dollar{
+ color: #ff589b;
+  }
